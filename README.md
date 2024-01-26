@@ -37,20 +37,46 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
 
 
-## Introduction:
-I am Sine Raja, a computer science student pursuing my master's degree in advanced computer science at the University of Leicester, United Kingdom. My academic and professional journey has been filled with challenges, opportunities, and growth, which has shaped me into the person I am today.
+# Introduction:
+Hello, I'm Sine Raja, a seasoned Full Stack Developer with over 5 years of experience in creating dynamic web applications. Proficient in a myriad of technologies including Java, Python, JavaScript, React, Node.js, and Express.js, I bring a wealth of expertise to the table. My journey has been marked by a commitment to excellence, innovation, and a passion for crafting high-quality software solutions.
 
-## Education:
-I completed my bachelor's degree in GMRIT, India, and my schooling at Kendriya Vidyalaya. Throughout my education, I have honed my skills in various programming languages and technologies, including C, Java, Python, React JS, Angular JS, MongoDB, and MySQL. I am constantly seeking new learning opportunities and have completed various online courses, including the CCBP Intensive 4.0 Tech Program and the Accenture Digital Skills program.
+# Education:
+I recently completed my Master's degree in Advanced Computer Science at the University of Leicester, UK, graduating in September 2023 with a MERIT designation. During this program, I honed my skills in Mobile and Web Applications, Generative Development, Advanced Web Technology, and Big Data Analysis.
 
-## Work Experience:
-I have 18 months of work experience in Accenture as an Associate Software Engineer, and also worked as a Full Stack Developer in SHA Associate, a start-up company. Through my work experience, I have gained extensive knowledge in front-end development and mobile app development, and have completed several projects, including a mobile app for crop disease recognition, a safety app for women, a hospital feedback app, a Netflix and food website, and a performance analysis framework for tumour prediction using decision tree and random forest algorithms.
+Prior to my Master's, I earned my Bachelor's degree in Technology from GMR IT, India, where I developed a strong foundation in full-stack development. This academic journey spanned from July 2016 to September 2020, culminating in a comprehensive understanding of the principles and practices of software development.
 
-## Volunteer Work:
-In addition to my work experience, I have also been actively involved in volunteer work. I served as a member and head of the Web and Multimedia department at the GMRIT ACM Student Chapter, and secured first prize in the Mobile App Innovation Challenge conducted by OPEN Community and UPES in association with the Linux Foundation.
+Additionally, I participated in the CCBP Intensive 4.0 Tech Program, a focused initiative on full-stack developer web development. This industry-ready certification program provided hands-on, reverse-engineered training that complemented my academic pursuits.
 
-## Conclusion:
-I am enthusiastic about the opportunity to bring my technical skills, work experience, and passion for software development to your company. I believe that I can make a valuable contribution to your team and I look forward to discussing further how I can be of assistance. My family has always been a source of inspiration and motivation for me, especially my mother, who has been a constant source of support throughout my journey. I am grateful for all the opportunities and growth I have experienced and I am eager to continue learning and making a positive impact in the field of computer science.
+# Employment History:
+
+## Fyaora LABS
+*Full-Stack Developer | Dec 2023 - Present*
+Currently immersed in the vibrant world of Fyaora LABS, where I orchestrate the development of cross-platform software solutions. From conceiving innovative front-end UI/UX designs to crafting robust back-end architectures, I ensure seamless integration and delivery of impactful functionalities. Collaborating seamlessly with designers and teams, I optimize for mobile platforms, leaving a trail of satisfied users.
+
+## The Inquisitive
+*Full Stack Developer | Sep 2022 - Aug 2023*
+Embarked on a journey with The Inquisitive, a dynamic startup environment, where my role as a dedicated freelancer allowed me to conceptualize, develop, and launch websites and mobile applications. My prowess in ReactJS and React Native, coupled with expertise in NodeJS and ExpressJS, enabled me to adeptly manage backend development, ensuring not just integration but robust functionality. Every project delivered was a testament to my passion for innovation and an eye for detail, enhancing user engagement and satisfaction.
+
+## SHA Associate
+*Full Stack Developer | Oct 2020 – Mar 2021*
+Stepped into the tech arena at SHA Associate, where I honed my web development skills by building and maintaining web applications. In a mere six months, I leveraged my technical expertise to develop and launch an online learning portal website. As a Full Stack Developer, I not only contributed to the development of engaging websites but also mentored and trained junior developers, emphasizing the significance of teamwork, communication, and continuous learning.
+
+## Accenture Solutions Private Limited
+*Associate Software Engineer | Mar 2021 – Aug 2022*
+Embarked on my professional journey at Accenture, where I actively contributed to the development of engaging websites, including the successful Bank Project. As an Associate Software Engineer, I garnered 1+ years of experience in full-stack development, showcasing proficiency in React, Angular, Node.js, and SQL. Seeking opportunities to leverage my technical skills, I left Accenture with enriched experience and a forward-thinking mindset.
+
+## Summer Intern at SHA Associate
+*Web Development Intern | May 2018 – June 2018*
+Embarked on my professional journey at SHA Associate, where I actively contributed to the development of engaging websites, including the successful Bank Project. As an Associate Software Engineer, I garnered 1+ years of experience in full-stack development, showcasing proficiency in React, Angular, Node.js, and SQL. Seeking opportunities to leverage my technical skills, I left Accenture with enriched experience and a forward-thinking mindset.
+
+# Projects:
+My portfolio is diverse and impactful, including projects like AGROSINE – FARMERS LIBRARY, a comprehensive MERN stack website with distinctions in my master's dissertation. Other noteworthy projects involve Food Waste Management, Electricity and Gas Payment Application, Autism at Ease, FoodBuggy, The Push App, and a Netflix clone. Achieving First Prize in the Mobile App Innovation Challenge attests to my dedication and innovation.
+
+# Experience Highlights:
+In roles ranging from Full Stack Developer to Web Master and Technical Head, I have honed my skills in MERN stack, Android Studio, and AWS. My stint at SHA Associates involved front-end development for an online learning platform, showcasing my commitment to creating user-friendly interfaces.
+
+# Conclusion:
+As I continue to grow and contribute to the ever-evolving tech landscape, I bring a unique blend of technical prowess, leadership experience, and a passion for delivering impactful solutions. My journey, marked by academic excellence, diverse projects, and hands-on industry exposure, fuels my enthusiasm to explore new opportunities and contribute meaningfully to forward-thinking organizations. Connect with me, and let's create something amazing together!
 
 <!---
 SineRaja/SineRaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
